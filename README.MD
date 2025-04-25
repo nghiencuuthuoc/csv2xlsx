@@ -3,6 +3,9 @@
 > A simple desktop app to convert `.csv` files into `.xlsx` format using a friendly graphical interface.  
 > Ứng dụng máy tính đơn giản giúp chuyển đổi file `.csv` sang định dạng Excel `.xlsx` bằng giao diện đồ họa dễ sử dụng.
 
+
+![screenshot](image/screenshot.2025-04-25.csv2xlsx.jpg)
+
 ---
 
 ## ✅ Features | Tính năng
@@ -27,3 +30,5 @@
 Cài nhanh:
 ```bash
 pip install pandas pillow
+
+## Copyright 2025 | 🧠 Nghiên Cứu Thuốc
